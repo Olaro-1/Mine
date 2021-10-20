@@ -14,6 +14,7 @@
   -sehingga terlahir satu direktory baru dibawahnya dan menjadikan itu direktory baru dengan command cd
 5. Menambah file baru repository
   -menambahkan sebuah file dengan format .txt
-  -buat dengan README.md
-  -
+  -buat dengan README.md https://user-images.githubusercontent.com/92594045/138132286-d0345520-a9d9-4c3b-960f-c2adbfff87ae.png
+6. Melakukan Commit
+  -untuk menyimpan perubahan yang telah ada ke database
 
