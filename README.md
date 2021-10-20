@@ -5,4 +5,6 @@
   Gunakan kode git config --global user.name "nama user" untuk nama 
   Gunakan kode git config --global user.email "email" untuk email
   https://github.com/Olaro-1/Mine/issues/1#issue-1030483845
-  
+4. Membuat local repository
+  -dengan menggunakan windows explorer pada OS Windows, buat folder baru yang akan menjadi active directory
+  -misal 
