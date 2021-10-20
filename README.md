@@ -11,5 +11,9 @@
   -masuk folder tersebut lalu klik kanan dan pilih "git bash here" https://user-images.githubusercontent.com/92594045/138120130-7c3ffc79-17be-41c5-b04c-31b7a5a805de.png
   -buat direktory project dengan nama "Example1"
   -dengan melakukan https://user-images.githubusercontent.com/92594045/138120956-f8066fb9-c710-4ba3-8941-4141ff8979fd.png
-  
+  -sehingga terlahir satu direktory baru dibawahnya dan menjadikan itu direktory baru dengan command cd
+5. Menambah file baru repository
+  -menambahkan sebuah file dengan format .txt
+  -buat dengan README.md
+  -
 
